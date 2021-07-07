@@ -9,6 +9,7 @@ export class EquipmentComponent implements OnInit {
 
   constructor() { }
 
+
   ngOnInit() {
   }
 
